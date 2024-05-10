@@ -1,17 +1,19 @@
 ## next.js + typescript + tailwind.css 
-PS D:\cursoUtn\crh> npx create-next-app@latest ./
-Need to install the following packages:
-create-next-app@14.2.3
-Ok to proceed? (y) y
+npx create-next-app@latest ./
 
-√ Would you like to use TypeScript? ... No / Yes
-√ Would you like to use ESLint? ... No / Yes
-√ Would you like to use Tailwind CSS? ... No / Yes
-√ Would you like to use `src/` directory? ... No / Yes
-√ Would you like to use App Router? (recommended) ... No / Yes
-√ Would you like to customize the default import alias (@/*)? ... No / Yes
+Need to install the following packages: create-next-app@14.2.3 -> yes
 
-Creating a new Next.js app in D:\cursoUtn\crh.
+- use TypeScript? Yes
+- use ESLint? Yes
+- use Tailwind CSS? Yes
+- use `src/` directory? No
+- use App Router? (recommended) Yes
+- customize the default import alias (@/*)? No
+
+## recomended VSCode extensions
+- ES7+ React/Redux/React-Native snippets ( https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+- Tailwind CSS IntelliSense ( https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss )
+
 
 ## old readme
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
